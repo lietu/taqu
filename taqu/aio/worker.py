@@ -1,0 +1,2 @@
+class TaquWorker:
+    pass
