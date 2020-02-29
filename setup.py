@@ -19,14 +19,15 @@ setup(
     author_email="janne.enberg@lietu.net",
     packages=["taqu", "taqu.aio"],
     keywords="task queue azure service bus",
-    python_requires=">=3.5,<4",
-    install_requires=["pydantic>=1.4,<2"],
+    python_requires=">=3.6,<4",
+    install_requires=["pydantic>=1.4,<2", "async_generator~=1.10"],
     extras_require={"azure": ["azure-servicebus>=0.50,<1"]},
     classifiers=[
         "License :: OSI Approved :: BSD License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
     ],
     project_urls={
         "Bug Reports": "https://github.com/lietu/taqu/issues",

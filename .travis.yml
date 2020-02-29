@@ -13,7 +13,7 @@ python:
 
 install:
   - pip install -r dev-requirements.txt
-  - pip install "azure-servicebus>=0.50,<1" "pydantic>=1.4,<2"
+  - pip install "azure-servicebus>=0.50,<1" "pydantic>=1.4,<2" "async_generator~=1.10"
 
 script:
   - export PYTHONDONTWRITEBYTECODE=1  # Hopefully prevents flaky tests
