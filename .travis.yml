@@ -6,7 +6,6 @@ dist: bionic
 language: python
 
 python:
-  - "3.5"
   - "3.6"
   - "3.7"
   - "3.8"
@@ -14,7 +13,7 @@ python:
 
 install:
   - pip install -r dev-requirements.txt
-  - pip install "azure-servicebus>=0.50,<1"
+  - pip install "azure-servicebus>=0.50,<1" "pydantic>=1.4,<2"
 
 script:
   - export PYTHONDONTWRITEBYTECODE=1  # Hopefully prevents flaky tests
