@@ -7,8 +7,8 @@
 .. image:: https://codecov.io/gh/lietu/taqu/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/lietu/taqu
 
-.. image:: https://sonarcloud.io/api/project_badges/measure?project=lietu_taqu&metric=alert_status
-    :target: https://sonarcloud.io/dashboard?id=lietu_taqu
+.. image:: https://sonarcloud.io/api/project_badges/measure?project=lietu-taqu&metric=alert_status
+    :target: https://sonarcloud.io/dashboard?id=lietu-taqu
 
 .. image:: https://img.shields.io/github/issues/lietu/taqu
     :target: https://github.com/lietu/taqu/issues
