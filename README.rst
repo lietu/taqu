@@ -1,4 +1,5 @@
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flietu%2Ftaqu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flietu%2Ftaqu?ref=badge_shield)
+.. image:: https://app.fossa.io/api/projects/git%2Bgithub.com%2Flietu%2Ftaqu.svg?type=shield
+    :target: https://app.fossa.io/projects/git%2Bgithub.com%2Flietu%2Ftaqu?ref=badge_shield
 
 .. image:: https://travis-ci.org/lietu/taqu.svg?branch=master
     :target: https://travis-ci.org/lietu/taqu
@@ -136,4 +137,10 @@ This project is run on GitHub using the issue tracking and pull requests here. I
 To test changes locally ``python setup.py develop`` is a good way to run this, and you can ``python setup.py develop --uninstall`` afterwards (you might want to also use the ``--user`` flag).
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flietu%2Ftaqu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flietu%2Ftaqu?ref=badge_large)
+Financial support
+=================
+
+This project has been made possible thanks to `Cocreators <https://cocreators.ee>`_ and `Lietu <https://lietu.net>`_. You can help us continue our open source work by supporting us on `Buy me a coffee <https://www.buymeacoffee.com/cocreators>`_.
+
+.. image:: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
+   :target: https://www.buymeacoffee.com/cocreators
